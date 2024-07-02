@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Masuma Riya
 #### Experienced Front-End Developer specialized in React js.
-![Experienced Front-End Developer specialized in React js.](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/307595331/original/02d5440f4ba85f2b2fb27b69094acabbfa5fef4d/create-website-using-react-tailwind-bootstrap.jpg)
+![Experienced Front-End Developer specialized in React js.](https://camo.githubusercontent.com/9ee19c8806e53a63a0f761573f05795dbb6ba2115d50be6f866b85968b260b7d/68747470733a2f2f692e6962622e636f2f337a52386a5a322f6769742d62616e6e65722e6a7067)
 
 I am working on Front end Development. I've also basic knowledge on Back end Development using node js and mongodb. Skilled in creating responsive, user-friendly interfaces and robust server-side applications. Problem-solving abilities and a passion for staying updated with the latest trends and technologies in Web Development. Currently, I am honing my skills and expanding my knowledge in web technologies, aiming to create seamless and visually appealing user experiences.
 
@@ -22,7 +22,5 @@ Skills: REACT /  TanStack / React Router / UI Component / JavaScript / HTML / Ta
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masuma-riya)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masuma-riya&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/masuma-riya)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masuma-riya)  
