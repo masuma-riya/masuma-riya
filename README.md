@@ -5,7 +5,8 @@
 # About me
 I am working on Front end Development. I've also basic knowledge on Back end Development using node js and mongodb. Skilled in creating responsive, user-friendly interfaces and robust server-side applications. Problem-solving abilities and a passion for staying updated with the latest trends and technologies in Web Development.
 
-# Skills :- REACT /  TanStack / React Router / UI Component / JavaScript / HTML / Tailwind CSS / Firebase / Node js / MongoDB / JWT / Stripe-payments / RESTful APIs / Express js
+# Skills 
+REACT /  TanStack / React Router / UI Component / JavaScript / HTML / Tailwind CSS / Firebase / Node js / MongoDB / JWT / Stripe-payments / RESTful APIs / Express js
 
 ## A simple overview of me
 - 🔭 I’m currently working on Optimizing website performance and SEO best practices. 
