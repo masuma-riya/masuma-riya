@@ -1,4 +1,4 @@
-# Front-End Developer specialized in React js.
+# Front-End Developer specialized in React js
 
 [![github-Banner.png](https://i.postimg.cc/9FTzq4y1/github-Banner.png)](https://postimg.cc/PPXdg538)
 
