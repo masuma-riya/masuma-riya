@@ -58,9 +58,9 @@ I am working on Front end Development. I've also basic knowledge on Back end Dev
 
 ## Connect with me :
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='30' style='margin-right: 10px;'>](https://www.linkedin.com/in/masuma-akter-riya/)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png' alt='gmail' height='30' style='margin-right: 10px;'>](mailto:masumariya209@gmail.com)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg' alt='telegram' height='30' style='margin-right: 10px;'>](https://t.me/masuma_riya)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='30' style='margin-right: 50px;'>](https://www.linkedin.com/in/masuma-akter-riya/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png' alt='gmail' height='30' style='margin-right: 50px;'>](mailto:masumariya209@gmail.com)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg' alt='telegram' height='30' style='margin-right: 50px;'>](https://t.me/masuma_riya)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg' alt='facebook' height='30' style='margin-right: 10px;'>](https://www.facebook.com/masumariyaaa/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masuma-riya&show_icons=true&locale=en&layout=compact" alt="masuma-riya" /></p>
