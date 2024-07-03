@@ -12,15 +12,15 @@ I'm a passionate front-end developer with a strong interest in building intuitiv
 
 ## 🚀 Languages and Tools
 
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- React.js ![React.js](https://img.shields.io/badge/-React.js-blue)
-- HTML ![HTML](https://img.shields.io/badge/-HTML-orange)
-- CSS ![CSS](https://img.shields.io/badge/-CSS-blueviolet)
-- Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC)
-- Firebase ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28)
-- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-green)
-- Express.js ![Express.js](https://img.shields.io/badge/-Express.js-grey)
-- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=ffffff)
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+- ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=ffffff)
+- ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=css3&logoColor=ffffff)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+- ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=ffffff)
+- ![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express&logoColor=ffffff)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=ffffff)
 
 ## 📫 Contact Me
 
