@@ -9,6 +9,7 @@ I am working on Front end Development. I've also basic knowledge on Back end Dev
 REACT /  TanStack / React Router / UI Component / JavaScript / HTML / Tailwind CSS / Firebase / Node js / MongoDB / JWT / Stripe-payments / RESTful APIs / Express js
 
 ## A simple overview of me
+
 - 🔭 I’m currently working on Optimizing website performance and SEO best practices. 
 - 🌱 I’m currently learning Next.js for building powerful and scalable React applications with server-side rendering and routing. 
 - 👯 I’m looking to collaborate on Open-source projects related to accessibility in web development. 
@@ -18,7 +19,8 @@ REACT /  TanStack / React Router / UI Component / JavaScript / HTML / Tailwind C
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iJZuKg1cYEDBlrmDhGqQGLtZwYPlFRTH/view?usp=sharing](https://drive.google.com/file/d/1iJZuKg1cYEDBlrmDhGqQGLtZwYPlFRTH/view?usp=sharing)
 - 😄 Pronouns: She/her 
 
-## Top Languages 
+## Top Languages
+
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;" />
@@ -57,6 +59,6 @@ REACT /  TanStack / React Router / UI Component / JavaScript / HTML / Tailwind C
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masuma-riya&show_icons=true&locale=en&layout=compact" alt="masuma-riya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masuma-riya&show_icons=true&locale=en" alt="masuma-riya" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masuma-riya&" alt="masuma-riya" /></p>
