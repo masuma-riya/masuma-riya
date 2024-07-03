@@ -20,7 +20,7 @@ I am working on Front end Development. I've also basic knowledge on Back end Dev
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masuma-riya&theme=highcontrast" alt="masuma-riya's GitHub Streak" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masuma-riya&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="masuma-riya's Top Languages" />
 </p>
 
