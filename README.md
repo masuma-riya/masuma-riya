@@ -17,7 +17,9 @@ I am working on Front end Development. I've also basic knowledge on Back end Dev
 - 😄 Pronouns: She/her
   
 # Daily Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masuma-riya&" alt="masuma-riya" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masuma-riya&theme=highcontrast" alt="masuma-riya's GitHub Streak" />
+</p>
 
 # Skills 
 <p align="left">
