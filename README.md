@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋
 
 ![Cover Image](link_to_your_cover_image)
 
-I'm a passionate front-end developer with a strong interest in building intuitive and dynamic user experiences. I specialize in using React.js, Tailwind CSS, and JavaScript to create modern web applications. I have experience working with Firebase for backend services, React Router for navigation, and integrating various APIs to enhance functionality.
+I'm a passionate front-end developer with a strong interest in building intuitive and dynamic user experiences. I specialize in using these technologies:
 
 ## 📊 Current Stats
 
@@ -10,7 +10,7 @@ I'm a passionate front-end developer with a strong interest in building intuitiv
 - **Contributions**: [Link to your GitHub contributions graph]
 - **Stack Overflow**: [Stack Overflow reputation and link]
 
-## 🚀 Languages and Tools
+## 🚀 Technologies
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=ffffff)
 - ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
