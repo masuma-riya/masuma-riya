@@ -20,9 +20,6 @@ I am working on Front end Development. I've also basic knowledge on Back end Dev
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masuma-riya&theme=highcontrast" alt="masuma-riya's GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masuma-riya&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="masuma-riya's Top Languages" />
-</p>
 
 # Skills 
 <p align="left">
@@ -59,6 +56,11 @@ I am working on Front end Development. I've also basic knowledge on Back end Dev
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;" />
   </a>
+</p>
+
+## Top Languages 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masuma-riya&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="masuma-riya's Top Languages" />
 </p>
 
 ## Connect with me:
