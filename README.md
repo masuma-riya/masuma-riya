@@ -1,28 +1,32 @@
-### Hi there 👋, I am Masuma Riya
-## Experienced Front-End Developer specialized in React js.
-![Experienced Front-End Developer specialized in React js.](https://camo.githubusercontent.com/9ee19c8806e53a63a0f761573f05795dbb6ba2115d50be6f866b85968b260b7d/68747470733a2f2f692e6962622e636f2f337a52386a5a322f6769742d62616e6e65722e6a7067)
+<h1 align="center">Hi 👋, I'm Masuma Riya</h1>
+<h3 align="center">Front-End Developer specialized in React js.</h3>
 
-# About me
-I am working on Front end Development. I've also basic knowledge on Back end Development using node js and mongodb. Skilled in creating responsive, user-friendly interfaces and robust server-side applications. Problem-solving abilities and a passion for staying updated with the latest trends and technologies in Web Development.
+- 🔭 I’m currently working on **Optimizing website performance and SEO best practices.**
 
-# Skills 
-REACT /  TanStack / React Router / UI Component / JavaScript / HTML / Tailwind CSS / Firebase / Node js / MongoDB / JWT / Stripe-payments / RESTful APIs / Express js
+- 🌱 I’m currently learning **Next.js for building powerful and scalable React applications with server-side rendering and routing.**
 
-## A simple overview of me
-- 🔭 I’m currently working on Optimizing website performance and SEO best practices. 
-- 🌱 I’m currently learning Next.js for building powerful and scalable React applications with server-side rendering and routing. 
-- 👯 I’m looking to collaborate on Open-source projects related to accessibility in web development. 
-- 🤔 I’m looking for help with Advanced UI/UX design principles and animation techniques. 
-- 💬 Ask me about Front-end framework React or responsive web design strategies /  User authentication. 
-- 📫 How to reach me: Email: masumariya209@gmail..com 
-- 😄 Pronouns: She/her 
+- 👯 I’m looking to collaborate on **Open-source projects related to accessibility in web development.**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/masuma-riya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/masuma-akter-riya/)  
+- 🤝 I’m looking for help with **Advanced UI/UX design principles and animation techniques.**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 💬 Ask me about **Front-end framework React or responsive web design strategies / User authentication.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masuma-riya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **Email: masumariya209@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masuma-riya&show_icons=true)  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iJZuKg1cYEDBlrmDhGqQGLtZwYPlFRTH/view?usp=sharing](https://drive.google.com/file/d/1iJZuKg1cYEDBlrmDhGqQGLtZwYPlFRTH/view?usp=sharing)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=masuma-riya)  
+- ⚡ Fun fact **I enjoy experimenting with new recipes and my specialty is homemade pizza from scratch.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/masuma-akter-riya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masuma-akter-riya" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masuma-riya&show_icons=true&locale=en&layout=compact" alt="masuma-riya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masuma-riya&show_icons=true&locale=en" alt="masuma-riya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masuma-riya&" alt="masuma-riya" /></p>
