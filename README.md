@@ -5,6 +5,18 @@
 # About me
 I am working on Front end Development. I've also basic knowledge on Back end Development using node js and mongodb. Skilled in creating responsive, user-friendly interfaces and robust server-side applications. Problem-solving abilities and a passion for staying updated with the latest trends and technologies in Web Development.
 
+## A simple overview of me
+
+- 🔭 I’m currently working on Optimizing website performance and SEO best practices. 
+- 🌱 I’m currently learning Next.js for building powerful and scalable React applications with server-side rendering and routing. 
+- 👯 I’m looking to collaborate on Open-source projects related to accessibility in web development. 
+- 🤔 I’m looking for help with Advanced UI/UX design principles and animation techniques. 
+- 💬 Ask me about Front-end framework React or responsive web design strategies /  User authentication. 
+- 📫 How to reach me: Email: masumariya209@gmail..com
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iJZuKg1cYEDBlrmDhGqQGLtZwYPlFRTH/view?usp=sharing](https://drive.google.com/file/d/1iJZuKg1cYEDBlrmDhGqQGLtZwYPlFRTH/view?usp=sharing)
+- 😄 Pronouns: She/her
+  
+# Daily Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masuma-riya&" alt="masuma-riya" /></p>
 
 # Skills 
@@ -43,16 +55,5 @@ I am working on Front end Development. I've also basic knowledge on Back end Dev
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;" />
   </a>
 </p>
-
-## A simple overview of me
-
-- 🔭 I’m currently working on Optimizing website performance and SEO best practices. 
-- 🌱 I’m currently learning Next.js for building powerful and scalable React applications with server-side rendering and routing. 
-- 👯 I’m looking to collaborate on Open-source projects related to accessibility in web development. 
-- 🤔 I’m looking for help with Advanced UI/UX design principles and animation techniques. 
-- 💬 Ask me about Front-end framework React or responsive web design strategies /  User authentication. 
-- 📫 How to reach me: Email: masumariya209@gmail..com
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iJZuKg1cYEDBlrmDhGqQGLtZwYPlFRTH/view?usp=sharing](https://drive.google.com/file/d/1iJZuKg1cYEDBlrmDhGqQGLtZwYPlFRTH/view?usp=sharing)
-- 😄 Pronouns: She/her 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masuma-riya&show_icons=true&locale=en&layout=compact" alt="masuma-riya" /></p>
