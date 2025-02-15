@@ -1,9 +1,9 @@
-# Front-End Developer specialized in React js
+# Junior Frontend Developer specialized in React js
 
 [![githubcover.png](https://i.postimg.cc/MpTp8d1X/githubcover.png)](https://postimg.cc/bs7hx0Cj)
 
 # About me
-I am working on Front end Development. I've also basic knowledge on Back end Development using node js and mongodb. Skilled in creating responsive, user-friendly interfaces and robust server-side applications. Problem-solving abilities and a passion for staying updated with the latest trends and technologies in Web Development.
+I am working on Frontend Development. I've also basic knowledge on Backend Development using node js and mongodb. Skilled in creating responsive, user-friendly interfaces and robust server-side applications. Problem-solving abilities and a passion for staying updated with the latest trends and technologies in Web Development.
 
 ## A simple overview of me
 
@@ -11,7 +11,7 @@ I am working on Front end Development. I've also basic knowledge on Back end Dev
 - 🌱 I’m currently learning Next.js for building powerful and scalable React applications with server-side rendering and routing. 
 - 👯 I’m looking to collaborate on Open-source projects related to accessibility in web development. 
 - 🤔 I’m looking for help with Advanced UI/UX design principles and animation techniques. 
-- 💬 Ask me about Front-end framework React or responsive web design strategies /  User authentication. 
+- 💬 Ask me about Frontend framework React or responsive web design strategies /  User authentication. 
 - 📫 How to reach me: Email: masumariya209@gmail..com
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iJZuKg1cYEDBlrmDhGqQGLtZwYPlFRTH/view?usp=sharing](https://drive.google.com/file/d/1iJZuKg1cYEDBlrmDhGqQGLtZwYPlFRTH/view?usp=sharing)
 - 😄 Pronouns: She/her
