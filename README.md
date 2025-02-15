@@ -13,7 +13,7 @@ I am working on Frontend Development. I've also basic knowledge on Backend Devel
 - 🤔 I’m looking for help with Advanced UI/UX design principles and animation techniques. 
 - 💬 Ask me about Frontend framework React or responsive web design strategies /  User authentication. 
 - 📫 How to reach me: Email: masumariya209@gmail..com
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13CLQ2r0shO54NxWkV9fWsAf379js3V8f/view?usp=sharing)
+- 📄 Know about my skills [Resume](https://drive.google.com/file/d/13CLQ2r0shO54NxWkV9fWsAf379js3V8f/view?usp=sharing)
 - 😄 Pronouns: She/her
   
 ## Daily Streak
