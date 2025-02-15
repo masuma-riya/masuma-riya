@@ -1,6 +1,6 @@
 # Front-End Developer specialized in React js
 
-[![github-Banner.png](https://i.postimg.cc/HkCf824p/github-Banner.png)](https://postimg.cc/SJDZwcv5)
+[![githubcover.png](https://i.postimg.cc/MpTp8d1X/githubcover.png)](https://postimg.cc/bs7hx0Cj)
 
 # About me
 I am working on Front end Development. I've also basic knowledge on Back end Development using node js and mongodb. Skilled in creating responsive, user-friendly interfaces and robust server-side applications. Problem-solving abilities and a passion for staying updated with the latest trends and technologies in Web Development.
